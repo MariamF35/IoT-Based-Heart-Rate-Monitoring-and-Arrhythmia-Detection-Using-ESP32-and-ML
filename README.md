@@ -94,7 +94,7 @@ Pulse Sensor → ESP32 → ThingSpeak → ML Model (Colab) → Prediction Output
 
 ### 🧠 Model Prediction Output
 
-![Model Output](images/model_output.png)
+![Model Output](images/output.png)
 
 ### ❤️ Serial Monitor (Arduino IDE)
 
